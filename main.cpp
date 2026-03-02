@@ -35,5 +35,7 @@ int main()
 
     delete[] b;
 
+    std::cout << "Hello a there!" << std::endl;
+
     return 0;
 }
